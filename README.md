@@ -7,7 +7,7 @@ As a part of developing RP2040 firmware for BPP payloads a lot of libraries and 
 ## Infrastructure
 - `rp2040-config`
 - `rp2040-console`
-- `std-cmd
+- `std-cmd`
 
 ## Hardware Libraries
 - rp2040-drf1262-lib
